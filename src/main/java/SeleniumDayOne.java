@@ -20,7 +20,7 @@ public class SeleniumDayOne {
         webElement.sendKeys(s_serachitem);
         webElement.sendKeys(Keys.ENTER);
 
-      //  webDriver.quit();
+       webDriver.quit();
        // webDriver.close();
 
     }
